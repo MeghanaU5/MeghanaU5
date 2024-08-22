@@ -1,20 +1,20 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
 
-<h1 align="center">Hi 👋, I'm Arpitha Jain </h1>
+<h1 align="center">Hi 👋, I'm Meghana U</h1>
 <h3 align="center">A passionate Software Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpithajk4&label=Profile%20views&color=0e75b6&style=flat" alt="arpithajk4" /> </p>
 
 - 🌱 I’m currently learning **JAVA FullStack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArpithaJK4/Project](https://github.com/ArpithaJK4/Project)
+- 👨‍💻 All of my projects are available at [https://github.com/MeghanaU5/webproject](https://github.com/MeghanaU5/webproject)
 
-- 💬 Ask me about **react Springboot SQL**
+- 💬 Ask me about **Web Technology**
 
-- 📫 How to reach me **arpithajk642@gmail.com**
+- 📫 How to reach me **meghanaachar55@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arpitha-jk-20bb69284/](https://www.linkedin.com/in/arpitha-jk-20bb69284/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/meghana-u-346852300/](https://www.linkedin.com/in/meghana-u-346852300/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
